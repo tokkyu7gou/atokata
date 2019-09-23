@@ -1,0 +1,11 @@
+C:\Neko-kawa-ii\bin\Debug\netcoreapp2.2\Nekokawaii.deps.json
+C:\Neko-kawa-ii\bin\Debug\netcoreapp2.2\Nekokawaii.runtimeconfig.json
+C:\Neko-kawa-ii\bin\Debug\netcoreapp2.2\Nekokawaii.runtimeconfig.dev.json
+C:\Neko-kawa-ii\bin\Debug\netcoreapp2.2\Nekokawaii.dll
+C:\Neko-kawa-ii\bin\Debug\netcoreapp2.2\Nekokawaii.pdb
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.csprojAssemblyReference.cache
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.csproj.CoreCompileInputs.cache
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.AssemblyInfoInputs.cache
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.AssemblyInfo.cs
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.dll
+C:\Neko-kawa-ii\obj\Debug\netcoreapp2.2\Nekokawaii.pdb
